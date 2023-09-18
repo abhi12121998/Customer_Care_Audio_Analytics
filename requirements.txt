@@ -61,8 +61,6 @@ Pillow==9.5.0
 posthog==3.0.2
 protobuf==4.24.3
 pyarrow==13.0.0
-pydantic==1.10.12
-pydantic_core==2.6.3
 pydeck==0.8.0
 Pygments==2.16.1
 Pympler==1.0.1
