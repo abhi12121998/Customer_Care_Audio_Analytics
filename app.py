@@ -7,10 +7,12 @@ import string
 import pandas as pd
 import csv
 import shutil
+from pytube import YouTube
 from collections import defaultdict
 from dotenv import load_dotenv
 from langchain.chat_models import AzureChatOpenAI
 from langchain.schema import HumanMessage
+
 from download import download_button
 
 from utils import load_documents, create_vector_db, load_index
