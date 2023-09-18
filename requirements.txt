@@ -8,12 +8,9 @@ attrs==23.1.0
 backoff==2.2.1
 bcrypt==4.0.1
 beautifulsoup4==4.12.2
-certifi==2023.7.22
 charset-normalizer==3.2.0
 chroma-hnswlib==0.7.2
 chromadb==0.3.23
-clarifai==9.8.0
-clarifai-grpc==9.8.0
 click==8.1.7
 clickhouse-connect==0.6.11
 colorama==0.4.6
